@@ -3,6 +3,9 @@ As part of the final project in my internship over Summer 2019, I worked with a 
 
 We began the project by thoroughly understanding the problem at hand. Through extensive meetings with teams that had undergone projects involving implementation of SaaS's, we were able to piece together what the current state of the process looked like and identify where we would be able to improve it. We noticed that each team that we interviewed had undertaken their project in a different way, and we quickly understood that there was no structured guidelines for the teams to follow and they simply did what they thought the next logical step was.
 
-As part of my team's mission, we wanted to focus on making effective and tangible suggestions that we were confident would positively impact the process, and ultimately allow the company to levarage emerging technology at scale. As part of our end deliverable, we created an end-to-end workflow that represents each step of the process, and allows the teams to fully visualize where they are and where they need to go next. I have included a basic workflow of the final process that we created.
+As part of my team's mission, we wanted to focus on making effective and tangible suggestions that we were confident would positively impact the process, and ultimately allow the company to levarage emerging technology at scale. As part of our end deliverable, we created an end-to-end workflow that represents each step of the process, and allows the teams to fully visualize where they are and where they need to go next. 
+
+### Below is a basic workflow of the final process that we created.
 
 ![Workflow](https://github.com/kamakaya/SaaS-Integration-Workflow/blob/master/saas_workflow.png)
+
