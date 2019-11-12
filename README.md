@@ -9,3 +9,8 @@ As part of my team's mission, we wanted to focus on making effective and tangibl
 
 ![Workflow](https://github.com/kamakaya/SaaS-Integration-Workflow/blob/master/saas_workflow.png)
 
+A couple of crucial improvements to the process that I'd like to point out:
+* The creation of a SaaS Committee to own and oversee the entire process
+* Separation of the process into different stages
+* Integration with ServiceNow
+* Expected Documentation at each stage
