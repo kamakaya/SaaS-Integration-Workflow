@@ -5,7 +5,7 @@ We began the project by thoroughly understanding the problem at hand. Through ex
 
 As part of my team's mission, we wanted to focus on making effective and tangible suggestions that we were confident would positively impact the process, and ultimately allow the company to levarage emerging technology at scale. As part of our end deliverable, we created an end-to-end workflow that represents each step of the process, and allows the teams to fully visualize where they are and where they need to go next. 
 
-### Below is a basic workflow of the final process that we created.
+### This is a basic workflow of the final process that we created.
 
 ![Workflow](https://github.com/kamakaya/SaaS-Integration-Workflow/blob/master/saas_workflow.png)
 
